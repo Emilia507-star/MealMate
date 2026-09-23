@@ -11,7 +11,7 @@
   "id": "/mealmate",
   "description": "MealMate helps you discover recipes based on the ingredients you already have, explore recipes from different cultures, plan meals and create shopping lists.",
   "lang": "en"¨,
-}"icons": [
+"icons": [
 {
 "src": "icon-192.png"
 "sizes": "192x192",
@@ -23,3 +23,5 @@
 "type": "image/png"
 }
 ]
+  }
+``
