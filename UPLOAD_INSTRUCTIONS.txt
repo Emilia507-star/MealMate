@@ -1,0 +1,11 @@
+FRIDGECHEF PWA
+
+Upload ALL files and folders in this package to an HTTPS web host while preserving the structure:
+index.html
+manifest.json
+service-worker.js
+icons/icon-192.png
+icons/icon-512.png
+
+Then open the HTTPS URL in a browser and submit that URL to PWABuilder.
+Note: recipe photos currently use external Unsplash URLs, so those photos still require internet access.
